@@ -1,0 +1,29 @@
+.hero-unit {
+  background: rgba(0, 0, 0, 0.75);
+  color: white;
+}
+
+.hero-unit h1{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 52px;
+}
+
+.hero-unit img {
+  width: 142px;
+  height: 153px;
+  margin: 20px auto;
+  display: block;
+}
+
+#social {
+  margin-left: 40px;
+}
+
+#social h3{
+  font-family: 'Permanent Marker', cursive;
+}
+
+#social ul {
+  list-style: none;
+}
+
