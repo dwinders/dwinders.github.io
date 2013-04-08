@@ -1,3 +1,1 @@
-$(function(){
-  $.backstretch("/assets/img/squaw.jpg");  
-});
+$.backstretch("/assets/img/squaw.jpg");
