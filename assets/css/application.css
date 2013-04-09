@@ -27,11 +27,16 @@
 @media (max-width: 480px) {
   .hero-unit h1 {
     text-align: center;
-    font-size: 42px;
   }
 
   #bio p {
     padding-bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  h1 {
+    font-size: 42px;
   }
 }
 
