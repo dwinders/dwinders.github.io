@@ -1,1 +1,1 @@
-$.backstretch("https://dl.dropbox.com/s/z5zvm8o54tekotr/squaw.jpg", {speed: 150});
+$.backstretch("https://dl.dropbox.com/s/s3qg4nwk4t58oz6/squaw.png", {speed: 150});
