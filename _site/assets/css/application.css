@@ -11,7 +11,7 @@
   }
 
 }
- 
+
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
 
@@ -27,7 +27,7 @@
     text-align: center;
   }
 }
- 
+
 /* Landscape phones and down */
 @media (max-width: 480px) {
   .hero-unit h1 {
@@ -56,8 +56,8 @@
 }
 
 .hero-unit img {
-  width: 142px;
-  height: 153px;
+  width: 156px;
+  height: 156px;
   margin: 25px auto;
   display: block;
 }
